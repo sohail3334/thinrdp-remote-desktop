@@ -1,0 +1,10 @@
+# Text file normalization
+# Generated on 2026-11-10
+# Default behavior
+Cargo.lock linguist-generated
+
+*.json linguist-detectable=false
+*.htm linguist-vendored
+public/index.html linguist-vendored
+
+*.ts linguist-detectable
